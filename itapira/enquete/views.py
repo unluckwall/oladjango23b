@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index (resquest):
-    return HttpResponse('texto')
+    return HttpResponse('seila, lukita')
